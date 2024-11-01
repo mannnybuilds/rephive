@@ -1,2 +1,2 @@
 # Rep-hive
-Blockchain community platform built with clarity on stacks where users earn  reputation points by providing solution to coding challenges and get visibility to clients for paid jobs based on their reputation points earned from helping out on the community.
+Blockchain platform built with clarity on stacks where users earn reputation points based on their engagements to posts and get visibility based on their reputation points earned from engagement on the platform.
